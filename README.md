@@ -1,10 +1,10 @@
 ### 👋 Hi there, my name is Justin, also known as Pasix!
 
-🔭 I’m currently working on Dutch-English translation projects
+🔭 I’m currently working on videogame projects
 
-🌱 I’m currently learning Games Programming
+🌱 I’m currently learning development in Unity
 
-👯 I’m looking to collaborate on fun beginner-friendly projects
+👯 I’m looking to share experiences and knowledge
 
 ### 📫 How to reach me: 
 LinkedIn
