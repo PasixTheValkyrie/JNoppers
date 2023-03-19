@@ -1,4 +1,4 @@
-### 👋 Hi there, my name is Justin!
+### 👋 Hi there, my name is Pasix!
 
 🔭 I’m currently working on videogame projects
 
