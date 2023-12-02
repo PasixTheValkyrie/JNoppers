@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on videogame projects
 
-🌱 I’m currently learning development in Unity
+🌱 I’m currently learning development in UE5
 
 👯 I’m looking to share experiences and knowledge
 
